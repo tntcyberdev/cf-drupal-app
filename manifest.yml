@@ -1,6 +1,6 @@
 applications:
 - disk_quota: 1024M
-  buildpack: php_buildpack
+  buildpack: https://github.com/Orange-OpenSource/cf-php-build-pack.git
   host: cf-drupal-app
   name: cf-drupal-app
   path: .
