@@ -1,5 +1,5 @@
 <?php
-echo '<h1 style="color:blue;text-align:center;margin:50px 0">Hello Docker Hanoi. My name is Tom.</h1>';
+echo '<h1 style="color:blue;text-align:center;margin:50px 0">Hello Docker Hanoi. This is a Drupal app on Bluemix!</h1>';
 /**
  * @file
  * Initiates a browser-based installation of Drupal.
