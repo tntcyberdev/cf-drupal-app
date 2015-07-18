@@ -1,5 +1,5 @@
 <?php
-
+echo '<p>Hello World</p>';
 /**
  * @file
  * Initiates a browser-based installation of Drupal.
